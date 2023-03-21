@@ -122,7 +122,7 @@
 %patch $52EB $0113W #Bottom
 
 #Stop tile (Floor tile)
-%patch $5214 $0117W $77
+%patch $5214 $0125W $77
 
 #Wallpaper tiles that appear when... (Should all be the same)
 %patch $5149 $0186W #...top of left finger moves down
